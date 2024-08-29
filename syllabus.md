@@ -80,7 +80,7 @@ Participation | 5%
 
 Event | Date
 ----- | ----
-No classes scheduled | 10/4
+No classes scheduled | 10/3
 Classes follow a Monday schedule | 10/15
 Midterm Exam | TBD
 Thanksgiving (college is closed) | 11/28
