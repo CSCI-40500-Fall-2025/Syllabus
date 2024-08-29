@@ -6,14 +6,13 @@
 
 Field | Value
 ----- | -----
-**Instructor:** | [Raffi Khatchadourian](http://khatchad.commons.gc.cuny.edu) 
+**Instructor:** | [Raffi Khatchadourian](http://cs.hunter.cuny.edu/~khatchad) 
 **Office:** | 1090H Hunter North Building
-**Email:** | [raffi.khatchadourian@hunter.cuny.edu](mailto:raffi.khatchadourian@hunter.cuny.edu)
+**Email:** | [khatchad@hunter.cuny.edu](mailto:khatchad@hunter.cuny.edu)
 **Phone:** | (212) 650-3988
-**Virtual office hours:** | [MW 1:30-2:30 pm][office hour]
-**Semester:** | Summer 2023
+**Office hours:** | TTh 4:00-5:00 pm
+**Semester:** | Fall 2024
 **Section:** | CSCI 40500/77100-01
-**Instruction mode:** | Online (asynchronous)
 
 ## Course Description
 
@@ -21,9 +20,7 @@ This course is an introductory survey on the fundamental concepts and principles
 
 Software Engineering (SE) is concerned with all facets of software development, from the early stages of requirements engineering to maintaining the system after it has been deployed. This includes technical processes of software development as well as activities such as software project management and the development of tools, methods, and theories to support software development. This course is not a "programming" course per se, instead, it focuses on surveying some of the critical facets of SE that may be less familiar to students of Computer Science, such as identifying a development process appropriate to the circumstances, eliciting and documenting requirements, using reviews and inspections plus machine-based testing in software development, understanding software evolution in large, complex systems, issues associated with developing dependable software systems, and configuration management of large systems developed by multiple engineers.
 
-## Outline and Schedule of Course Topics
-
-The following topics may be covered in the given order:
+## Potential Course Topics
 
 Topic | Reading Chapter(s)
 --- | ---
@@ -41,14 +38,15 @@ Security and Privacy | 7
 Reliable Programming | 8
 Testing | 9
 DevOps and Code Management | 10
-
-Students are required to read the linked articles if no chapter is specified above. If time permits, other topics may be covered at the instructor's discretion, in which case the instructor will distribute any supplementary material.
+Special Topic 1 | TBD
+Special Topic 2 | TBD
 
 ## Prerequisites
 
-- CSCI 33500: Software Analysis and Design III or equivalent.
-
-Students must be familiar with a modern Object-Oriented programming language such as Java or Python and must be familiar with common computing terminology. The examples in the book are in Python but should be understandable by anyone with programming experience.
+- [CSCI 33500: Software Analysis and Design III] or equivalent.
+- Familiarity with a modern, Object-Oriented programming language, e.g., Java, Python.
+  - The examples in the book are in Python but should be understandable by anyone with programming experience.
+- Familiarity with common computing terminology.
 
 ## [Textbook]
 
@@ -79,11 +77,11 @@ Participation | 5%
 
 Event | Date
 ----- | ----
+No classes scheduled | 10/4
+Classes follow a Monday schedule | 10/15
 Midterm Exam | TBD
-Juneteenth (college is closed) | June 19
-Classes follow a Monday schedule | June 28
-Independence Day (college is closed) | July 4
-Final Exam | TBD (no latter than July 12)
+Thanksgiving (college is closed) | 11/28
+Final Exam | TBD (no latter than Dec 21)
 
 ## Credit/No Credit Policy &amp; Special Enrollment Permission
 
@@ -135,12 +133,6 @@ Test make-ups will be given if and only if:
 - the request is made sufficiently in advance of the test, and
 - the make-up is scheduled within three (3) business days following the exam period.
 
-Proctoring software, which may include the use of browser lock-downs and cameras, may be used for examinations in this course.
-
-## Professional Presence &amp; Communication
-
-A central focus of this course is to simulate the professional work environment of Software Engineers. Thus, every student is expected to present themselves in a professional manner, even remotely. Students are expected to fully (and solely) participate in their group activities under a professional demeanor. At all times, please maintain a supportive learning community where everyone feels safe and where people can disagree amicably and professionally. We will respect each other and practice courtesy at all times. Disrespectful language, including, but not limited to, sexist, racist, homophobic, or anti-ethnic slurs or bigotry, will not be tolerated. I am committed to making the classroom a comfortable space for all of us, and I ask that we all work toward this goal in all of the course's online areas.
-
 ## Academic Violations
 
 CUNY Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating on examinations, obtaining unfair advantage, and falsification of records and official documents) as serious offenses against the values of intellectual honesty. The college is committed to enforcing the CUNY Policy on Academic Integrity and will pursue cases of academic dishonesty according to the Hunter College Academic Integrity Procedures. Special attention is given to CONTRACT CHEATING (this is where students have work completed on their behalf which is then submitted for academic credit). Academic violations will be pursued to the fullest extent possible, including failure from the course.
@@ -150,7 +142,6 @@ CUNY Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheat
 - Emails to the instructor must be via CUNY email addresses for FERPA reasons.
 - Include the *class name* or *number* in the *subject* line of the email.
 - Email thread *hijacking* is strongly discouraged. Ensure that the subject of your email matches its contents.
-- Post all class-related discussions on the Bb discussion board.
 - Ensure that your *correct* email address is entered into the CUNY Blackboard.
 
 ## Bulletin Board
@@ -212,16 +203,12 @@ In compliance with the CUNY Policy on Sexual Misconduct, Hunter College reaffirm
 1. Sexual Violence: Students are strongly encouraged to immediately report the incident by calling 911, contacting NYPD Special Victims Division Hotline (646-610-7272) or their local police precinct, or contacting the College's Public Safety Office (212-772-4444).
 1. All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose (jtrose@hunter.cuny.edu or 212-650-3262) or Colleen Barry (colleen.barry@hunter.cuny.edu or 212-772-4534) and seek complementary services through the Counseling and Wellness Services Office, Hunter East 1123. CUNY Policy on Sexual Misconduct Link: http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf
 
-## COVID
-
-All students, faculty, and staff must comply with and stay current on all [university safety and health guidance](https://www.cuny.edu/coronavirus). Accommodations will be made based on university guidelines.
-
 ## Credits
 
 Portions of this syllabus are based on the syllabus used for the [CEN 5035 Software Engineering Fall 2016 course](http://www.cise.ufl.edu/class/cen5035/fa16.html) of the Department of Computer Science &amp; Engineering, the University of Florida by Steve Thebaut, as well as syllabi from Atanas Rountev.
 
-[office hour]: https://huntercollege.zoom.us/my/khatchad
-[textbook]: https://hunter.textbookx.com/institutional/?action=browse#books/3843476
-[GitHub]: https://github.com/CSCI-40500-77100-Summer-2023/Syllabus/commits/master
+[textbook]: https://hunter.textbookx.com/institutional/?action=browse#books/4441333
+[GitHub]: https://github.com/CSCI-40500-77100-Fall-2024/Syllabus/commits/master
 [loan]: https://cunyhunter.co1.qualtrics.com/jfe/form/SV_9viuDlTexA9rV2d
-[Raffi Khatchadourian]: http://cs.hunter.cuny.edu/~Raffi.Khatchadourian99
+[Raffi Khatchadourian]: http://cs.hunter.cuny.edu/~khatchad
+[CSCI 33500: Software Analysis and Design III]: https://hunter-undergraduate.catalog.cuny.edu/courses/0245511
