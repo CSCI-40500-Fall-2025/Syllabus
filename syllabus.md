@@ -83,6 +83,7 @@ Event | Date
 No classes scheduled | 10/3
 Classes follow a Monday schedule | 10/15
 Midterm Exam | TBD
+Withdrawal Deadline | 11/6
 Thanksgiving (college is closed) | 11/28
 Final Exam | TBD (no latter than Dec 21)
 
