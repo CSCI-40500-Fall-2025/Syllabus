@@ -137,6 +137,14 @@ Test make-ups will be given if and only if:
 - the request is made sufficiently in advance of the test, and
 - the make-up is scheduled within three (3) business days following the exam period.
 
+## Attendance
+
+Attendance is expected for *each and every class* meeting. The instructor will start the class on time, and students are expected to be present on time.
+
+## Professional Presence &amp; Communication
+
+A central focus of this course is to simulate the professional work environment of Software Engineers. Thus, every student is expected to present themselves in a professional manner. Students are expected to participate in their group activities under a professional demeanor.
+
 ## Academic Violations
 
 CUNY Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating on examinations, obtaining unfair advantage, and falsification of records and official documents) as serious offenses against the values of intellectual honesty. The college is committed to enforcing the CUNY Policy on Academic Integrity and will pursue cases of academic dishonesty according to the Hunter College Academic Integrity Procedures. Special attention is given to CONTRACT CHEATING (this is where students have work completed on their behalf which is then submitted for academic credit). Academic violations will be pursued to the fullest extent possible, including failure from the course.
