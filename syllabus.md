@@ -13,6 +13,7 @@ Field | Value
 **Office hours:** | TTh 4:00-5:00 pm
 **Semester:** | Fall 2024
 **Section:** | CSCI 40500/77100-01
+**Grader:** | [Ye Paing](mailto:ypaing@hunter.cuny.edu)
 
 ## Course Description
 
