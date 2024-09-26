@@ -72,8 +72,8 @@ For this course, you must:
 Category | Percentage
 -------- | ----------
 Assignments | 15%
-Midterm Exam | 30%
-Final Exam (non-accumulative) | 30%
+Midterm exam | 30%
+Final exam (non-accumulative) | 30%
 Project | 20%
 Participation | 5%
 
@@ -82,11 +82,11 @@ Participation | 5%
 Event | Date
 ----- | ----
 No classes scheduled | 10/3
-Midterm Exam | 10/10
+Midterm exam | 10/10
 Classes follow a Monday schedule | 10/15
-Withdrawal Deadline | 11/6
+Withdrawal deadline | 11/6
 Thanksgiving (college is closed) | 11/28
-Final Exam | TBD (no latter than Dec 21)
+Final exam | TBD (no latter than 12/21)
 
 ## Credit/No Credit Policy &amp; Special Enrollment Permission
 
