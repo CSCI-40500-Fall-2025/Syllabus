@@ -87,7 +87,7 @@ Midterm exam | 10/10
 Classes follow a Monday schedule | 10/15
 Withdrawal deadline | 11/6
 Thanksgiving (college is closed) | 11/28
-Final exam | TBD (no latter than 12/21)
+Final exam | 12/17 (5:20-7:20 pm)
 
 ## Credit/No Credit Policy &amp; Special Enrollment Permission
 
