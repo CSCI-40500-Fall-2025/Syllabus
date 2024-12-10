@@ -39,9 +39,9 @@ Security and Privacy | 7
 [Web Application Security](https://martinfowler.com/articles/web-security-basics.html) | N/A
 Reliable Programming | 8
 Testing | 9
-DevOps and Code Management | 10
-Special Topic 1 (if time permits) | TBD
-Special Topic 2 (if time permits) | TBD
+DevOps and Code Management (time permitting) | 10
+Special Topic 1 (time permitting) | TBD
+Special Topic 2 (time permitting) | TBD
 
 Students are required to read the linked articles if no chapter is specified above. The instructor will distribute any supplementary material.
 
