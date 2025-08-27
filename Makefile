@@ -1,4 +1,4 @@
-PDF=csci_40500_77100_fa2024_syllabus
+PDF=csci_40500_fa2025_syllabus
 MD=syllabus
 HTML=syllabus
 open:
