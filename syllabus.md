@@ -78,7 +78,7 @@ No classes scheduled | 9/22--9/24
 No classes scheduled | 10/1--10/2
 Midterm exam | TBD
 Withdrawal deadline | 11/6
-Final exam | 12/17 (10:30-12:30 pm)
+Final exam | 12/17 (11:30-1:30 pm)
 
 ## Credit/No Credit Policy &amp; Special Enrollment Permission
 
