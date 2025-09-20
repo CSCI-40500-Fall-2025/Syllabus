@@ -15,6 +15,8 @@ Field | Value
 **Section:** | CSCI 40500-01 (6403)
 **Grader:** | [Ye Paing](https://www.linkedin.com/in/hello-ye)
 **Email:** | [ypaing@hunter.cuny.edu](mailto:ypaing@hunter.cuny.edu)
+**Teaching Assistant:** | [Chufeng Jiang](https://www.linkedin.com/in/chufeng-jiang)
+**Email:** | [cjiang@gradcenter.cuny.edu](mailto:cjiang@gradcenter.cuny.edu)
 
 ## Course Description
 
