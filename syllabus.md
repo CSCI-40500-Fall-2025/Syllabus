@@ -26,7 +26,7 @@ Software Engineering (SE) is concerned with all facets of software development, 
 
 ## Potential Course Topics
 
-Topic | Reading Chapter(s)
+Topic | Reading Chapter(s)/Page(s)
 --- | ---
 Software Products| 1
 Agile Software Engineering | 2
@@ -47,7 +47,7 @@ Students are required to read the linked articles if no chapter is specified abo
 
 Students must be familiar with a modern Object-Oriented programming language such as Java or Python and must be familiar with common computing terminology. The examples in the book are in Python but should be understandable by anyone with programming experience.
 
-## [Textbook]
+## [Textbooks]
 
 Title | Author | ISBN | Type | Comment
 -- | -- | -- | -- | --
@@ -186,7 +186,7 @@ Hunter College is committed to maintaining a fair and equal environment for both
 
 Portions of this syllabus are based on the syllabus used for the [CEN 5035 Software Engineering Fall 2016 course](http://www.cise.ufl.edu/class/cen5035/fa16.html) of the Department of Computer Science &amp; Engineering, the University of Florida by Steve Thebaut, as well as syllabi from Atanas Rountev.
 
-[textbook]: https://hunter.textbookx.com/institutional/index.php?action=browse#books/4896985/
+[textbooks]: https://hunter.textbookx.com/institutional/index.php?action=browse#books/4896985/
 [GitHub]: https://github.com/CSCI-40500-Fall-2025/Syllabus/commits/master
 [loan]: https://cunyhunter.co1.qualtrics.com/jfe/form/SV_9viuDlTexA9rV2d
 [Raffi Khatchadourian]: http://cs.hunter.cuny.edu/~khatchad
