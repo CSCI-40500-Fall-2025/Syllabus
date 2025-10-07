@@ -32,7 +32,7 @@ Software Products| 1
 Agile Software Engineering | 2
 Software Architecture | 4
 Reliable Programming | 8
-Design Patterns | TBD
+Design Patterns | pp. 293--305 of "GoF book" (optional)
 Testing | 9
 DevOps and Code Management | 10
 Special Topic 1 (time permitting) | TBD
@@ -49,9 +49,10 @@ Students must be familiar with a modern Object-Oriented programming language suc
 
 ## [Textbook]
 
-Title | Author | ISBN | Type
--- | -- | -- | --
+Title | Author | ISBN | Type | Comment
+-- | -- | -- | -- | --
 [Engineering Software Products](https://books.google.com/books?id=M2kNuwEACAAJ) | Sommerville, I. | 978-0135210642 | Required
+[Design Patterns: Elements of Reusable Object-Oriented Software](https://books.google.com/books?id=6oHuKQe3TjQC) | Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides | 978-0321700698 | Optional | "GoF" book
 
 ## Student Expectations
 
