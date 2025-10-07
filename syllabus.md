@@ -39,7 +39,7 @@ Special Topic 1 (time permitting) | TBD
 Special Topic 2 (time permitting) | TBD
 Special Topic N (time permitting) | TBD
 
-Students are required to read the linked articles if no chapter is specified above. The instructor will distribute any supplementary material.
+Students are required to read the linked articles if no chapter is specified above. The instructor will distribute any supplementary material. Chapters and pages refer to the required text unless otherwise specified.
 
 ## Prerequisites
 
