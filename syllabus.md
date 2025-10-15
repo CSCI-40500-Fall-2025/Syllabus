@@ -79,7 +79,7 @@ Event | Date
 ----- | ----
 No classes scheduled | 9/22--9/24
 No classes scheduled | 10/1--10/2
-Midterm exam | TBD
+Midterm exam | 10/22
 Withdrawal deadline | 11/6
 Final exam | 12/17 (11:30-1:30 pm)
 
