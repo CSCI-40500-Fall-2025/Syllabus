@@ -135,7 +135,7 @@ Test make-ups will be given if and only if:
 
 ## Attendance
 
-Attendance is expected for *each and every class* meeting. The instructor will start the class on time, and students are expected to be present on time.
+Attendance is expected for *each and every class* meeting. The instructor will start the class on time, and students are expected to be present on time. If students are late or miss class, it is the student's responsibility to makeup any missed material. How students do that is up to them, but I suggest asking another student in the class. Please do not ask or email the instructor about information on any missed material due to missing or being late to class. Please come on time.
 
 ## Professional Presence &amp; Communication
 
