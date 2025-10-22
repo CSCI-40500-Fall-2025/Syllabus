@@ -113,7 +113,7 @@ Students will work together in assigned groups on a semester-long project. The p
 1. Code hosted on our GitHub Classroom.
 1. Working tests invoked via continuous integration (CI).
 
-Please inform the instructor if your group requires any computing resources from the Computer Science department to complete your project.
+Please inform the instructor if your group requires any computing resources from the Computer Science department to complete your project. Moreover, please do not take another students' EMPLID when accepting assignments from GitHub Classroom; doing so will give your grade to another student and may result in you having no grade for the project or assignment. If you do not see your EMPLID when accepting an assignment, please inform the instructor immediately.
 
 ### Presentation
 
