@@ -26,16 +26,16 @@ Software Engineering (SE) is concerned with all facets of software development, 
 
 ## Potential Course Topics
 
-Topic | Reading Chapter(s)/Page(s)
---- | ---
-Software Products| 1
-Agile Software Engineering | 2
-Software Architecture | 4
-Reliable Programming | 8
-Design Patterns | pp. 293--305 of "GoF book" (optional)
-Testing | 9
-DevOps and Code Management | 10
-Special Topic 1 (time permitting) | TBD
+Topic | Book | Reading Chapter(s)/Page(s)
+--- | --- | ---
+Software Products | Sommerville | 1
+Agile Software Engineering | Sommerville | 2
+Software Architecture | Sommerville | 4
+Reliable Programming | Sommerville | 8
+Design Patterns | GoF | pp. 293--305
+Testing | Sommerville | 9
+DevOps and Code Management | Sommerville | 10
+Machine Learning in a Nutshell for Software Engineers | Kastner | 1--3
 Special Topic 2 (time permitting) | TBD
 Special Topic N (time permitting) | TBD
 
@@ -51,8 +51,9 @@ Students must be familiar with a modern Object-Oriented programming language suc
 
 Title | Author | ISBN | Type | Comment
 -- | -- | -- | -- | --
-[Engineering Software Products](https://books.google.com/books?id=M2kNuwEACAAJ) | Sommerville, I. | 978-0135210642 | Required
+[Engineering Software Products](https://books.google.com/books?id=M2kNuwEACAAJ) | Sommerville, I. | 978-0135210642 | Required | Main textbook
 [Design Patterns: Elements of Reusable Object-Oriented Software](https://books.google.com/books?id=6oHuKQe3TjQC) | Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides | 978-0321700698 | Optional | "GoF" book
+[Machine Learning in Production: From Models to Products](https://books.google.com/books?id=kSATEQAAQBAJ) | Christian Kastner | 978-0262382953 | Required | For special topics on ML systems
 
 ## Student Expectations
 
