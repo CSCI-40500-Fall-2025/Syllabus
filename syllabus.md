@@ -36,7 +36,7 @@ Design Patterns | GoF | pp. 293--305
 Testing | Sommerville | 9
 DevOps and Code Management | Sommerville | 10
 Machine Learning in a Nutshell for Software Engineers | Kastner | 1--3
-Engineering Machine Learning systems | 4, 5, 8, 22
+Engineering Machine Learning systems | Kastner | 4, 5, 8, 22
 
 Students are required to read the linked articles if no chapter is specified above. The instructor will distribute any supplementary material. Chapters and pages refer to the required text unless otherwise specified.
 
